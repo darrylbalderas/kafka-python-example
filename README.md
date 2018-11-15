@@ -16,6 +16,11 @@ Run the folder
 `source env/bin/activate`
 
 
+Install requirements.txt
+
+`pip install -r requirements.txt`
+
+
 Start up a zookeeper and kafka instance
 
 `./confluent-5.0.1/bin/confluent start`
